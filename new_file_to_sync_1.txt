@@ -1,0 +1,1 @@
+c:\plastic\pnunit\wkspaces\TestGitHubCompatibilitySSH-Client\new_file_to_sync_1.txt
